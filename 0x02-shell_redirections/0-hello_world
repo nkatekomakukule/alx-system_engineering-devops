@@ -1,2 +1,2 @@
 #!/bin/bashcat
-cat "Hello, World"
+echo "Hello, World"
